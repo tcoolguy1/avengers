@@ -1,0 +1,32 @@
+body
+{
+  background-color: aqua;  
+}
+.my_nav_bar
+{
+    background: aqua;
+}
+.name
+{
+    float: right;
+}
+#home img
+{
+    width: 100%;
+    text-align: center;
+}
+#home
+{
+    padding: 30px;
+}
+#grid img
+{
+    width: 220px;
+    height: 250px;
+}
+#slid img
+{
+    width: 100%;
+    text-align: center;
+    height: 500px;
+}
